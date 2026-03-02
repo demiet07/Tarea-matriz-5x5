@@ -1,0 +1,13 @@
+# Crear un arreglo
+arreglo = [10, 20, 30, 40, 50]
+
+# Mostrar el número en la posición 1
+print("Valor en la posición 1:", arreglo[1])
+
+# Recorrer y mostrar todo el arreglo
+print("Recorriendo el arreglo:")
+for numero in arreglo:
+    print(numero)
+
+
+
